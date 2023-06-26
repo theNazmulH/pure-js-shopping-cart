@@ -1,0 +1,32 @@
+main{
+    padding: 50px 0;
+}
+.cart-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1px;
+    background: #f6f6f6;
+    padding: 10px;
+}
+.cart p{
+    margin: 0;
+}
+.prduct-quantity-manipulation button{
+    color: #fff;
+}
+.prduct-quantity-manipulation div{
+    min-width: 36px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.prduct-quantity-manipulation{
+    display: flex;
+    align-items: center;
+}
+.card-body button{
+    width: 100%;
+    display: block;
+}
